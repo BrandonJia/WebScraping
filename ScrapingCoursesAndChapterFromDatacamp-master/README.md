@@ -13,7 +13,8 @@ The process is easy and handy:
 
 # What you need to offer and what you get? 
 ## Input
-The link to the main page of Datacamp
+The link to the [main course page of Datacamp](https://www.datacamp.com/courses/all)
+![Datacamp page preview](https://github.com/BrandonJia/WebScraping/blob/master/ScrapingCoursesAndChapterFromDatacamp-master/Capture.PNG)
 ## Output 
 After several seconds, a CSV file named datacampCourses.csv which includes all courses offered by Datacamp and their chapters.
 
