@@ -17,4 +17,4 @@ The link to the [main course page of Datacamp](https://www.datacamp.com/courses/
 ![Datacamp page preview](https://github.com/BrandonJia/WebScraping/blob/master/ScrapingCoursesAndChapterFromDatacamp-master/Capture.PNG)
 ## Output 
 After several seconds, a CSV file named datacampCourses.csv which includes all courses offered by Datacamp and their chapters.
-
+[Here is the results](https://github.com/BrandonJia/WebScraping/blob/master/ScrapingCoursesAndChapterFromDatacamp-master/datacamp_courses.csv)
