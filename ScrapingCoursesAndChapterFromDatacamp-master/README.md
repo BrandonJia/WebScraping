@@ -1,9 +1,7 @@
-This is a spider to scrape all courses and their chapters from Datacamp
+Searching datacamp course becomes increasing important step for me to learn grasp practical skills and fimiliarize new fields. This is a major differentiator, at least I think, from other MOOC platforms like Courses and Edx.
 
 # Why scrape datacamp?
-This is a awkward story. 
-
-I was searching for a course from Datacamp. My browser froze all the time, and I was tired of waiting for hiting the 'more' button to load the other courses which cannot be filled in one page. So I thought why not scrape all courses and put them in a csv file so that I could cluster them and tag them. That's why I wrote this scraper.
+One thing datacamp search engine cannot provide is I cannot search for some topics embeded in one whole course. Sometimes Google is handy if you know a little bit about SEO and advanced search tools. The alternative is scaping evey chapters or even modules from every class. That's what this spider is doing.
 
 # How to implement?
 The process is easy and handy:
